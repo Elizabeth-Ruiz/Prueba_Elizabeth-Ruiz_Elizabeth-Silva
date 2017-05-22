@@ -1,0 +1,7 @@
+nombre,categoria_academica,rango,grado_academico,horas_contratadas,asignaturas
+"Apellidos, Nombres",categoría académica ordinaria,ayudante,licenciado,12 hrs.,"(revisar u-campus, puede copiar todas las clases que realizar el profesor separándola por comas)"
+,categoría académica docente,instructor,magister,22 hrs.,
+,categoría académica adjunta,profesor asistente,doctor,33 hrs.,
+,sin categoría académica,profesor asociado,,44 hrs.,
+,,profesor titular,,,
+,,sin rango: docente invitado,,,
